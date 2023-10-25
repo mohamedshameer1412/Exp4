@@ -9,7 +9,6 @@
 <h1>Cloud Login Demo</h1>
 </header>
 <hr>
-<article>
  <section>
  <h1>Login Details</h1>
  <form action="login.php" method="POST">
@@ -20,7 +19,6 @@
  <input type="submit" value="Login">
  </form>
  </section>
-</article>
 <footer>
 Developed by K Anbarasan
 </footer>
