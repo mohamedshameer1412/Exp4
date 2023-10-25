@@ -9,16 +9,16 @@
 <h1>Cloud Login Demo</h1>
 </header>
 <hr>
- <section>
+<section>
  <h1>Login Details</h1>
  <form action="login.php" method="POST">
- <label>User Name</label>
- <input type="text" name="usr"><br><br>
- <label>Password</label>
- <input type="password" name="pwd"><br>
- <input type="submit" value="Login">
+  <label>User Name</label>
+  <input type="text" name="usr"><br><br>
+  <label>Password</label>
+  <input type="password" name="pwd"><br>
+  <input type="submit" value="Login">
  </form>
- </section>
+</section>
 <footer>
 Developed by K Anbarasan
 </footer>
