@@ -18,7 +18,7 @@ footer {
     border-radius: 10px;
 }
 
-article {
+article,section {
     width: auto;
     border: 2px solid gray;
     padding: 10px;
