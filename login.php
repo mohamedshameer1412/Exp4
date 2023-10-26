@@ -18,7 +18,7 @@
 </head>
 <body>
 <header>
-<h1>Cloud Login Result</h1>
+<h1>Cloud Login Result</h2>
 </header>
 <hr>
 <article>
