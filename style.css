@@ -1,7 +1,8 @@
 header {
     text-align: center;
     height: 100px;
-    background-color: #ffe697;
+    background-color: dodgerblue;
+    color:white;
     padding: 10px;
     border-radius: 10px 10px 0px 0px;
 }
@@ -11,14 +12,10 @@ footer {
     font-size: 12px;
     height: 50px;
     line-height: 50px;
-    background-color: #ffe697;
+    background-color: dodgerblue;
+    color:white;
     padding: 10px;
     border-radius: 10px;
-}
-
-img {
-    width: 100px;
-    height: 100px;
 }
 
 article {
