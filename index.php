@@ -20,7 +20,7 @@
  </form>
 </section>
 <footer>
-Developed by K Anbarasan
+Developed by Mohamed Shameer
 </footer>
 </body>
 </html>
